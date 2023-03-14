@@ -1,11 +1,27 @@
-<h1 align="center">Hi 👋, I'm Srikant Kanekar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hi there 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm Srikant Kanekar, a mobile developer with experience in web and backend development. I'm passionate about creating high-quality mobile apps that solve complex problems and provide an excellent user experience.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikantkanekar&show_icons=true&locale=en&layout=compact" alt="srikantkanekar" /></p>
+| Project 1     | Project 2     | Project 3     |
+| :------------- | :------------- | :------------- |
+| Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
+| [![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android)  | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+| Project 4     | Project 5     | Project 6     |
+| Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
+| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+
+## Skills
+
+- **Languages:** Dart, Kotlin, Swift, JavaScript
+- **Frameworks:** Android, iOS, Flutter, React, Ktor, Django
+- **Databases:** Firebase, MySQL
+- **Tools:** Android Studio, Xcode, Git
+
+## Contact
+
+- LinkedIn: [Your LinkedIn profile link]
+- Email: [Your email address]
+
+Thanks for stopping by! Let's connect and collaborate on some awesome projects!
