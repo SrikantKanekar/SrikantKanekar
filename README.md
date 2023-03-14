@@ -7,7 +7,7 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 | Project 1     | Project 2     | Project 3     |
 | :------------- | :------------- | :------------- |
 | Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
-| [![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android){:target="_blank"}  | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+| [![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android) | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
 | Project 4     | Project 5     | Project 6     |
 | Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
 | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
