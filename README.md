@@ -8,9 +8,9 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 | :-------------: | :-------------: | :-------------: |
 | [![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android) | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
 
-| Tasks app | Sim companies app | Compose animation app |
+| [Tasks app](https://github.com/SrikantKanekar/TasksApp-Flutter) | [Sim companies app](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [Compose animation app](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
 | :-------------: | :-------------: | :-------------: |
-| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+| [![screenshot](https://github.com/SrikantKanekar/TasksApp-Flutter/blob/master/screenshots/tasks_completed.png)](https://github.com/SrikantKanekar/TasksApp-Flutter)     | [![screenshot](https://github.com/SrikantKanekar/SimCompaniesApp-Android/blob/master/screenshots/home2.png)](https://github.com/SrikantKanekar/SimCompaniesApp-Android)     | [![screenshot](https://github.com/SrikantKanekar/ComposeAnimations-Android/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/ComposeAnimations-Android)     |
 
 | Clock app | Countries app | Puppy adoption app |
 | :-------------: | :-------------: | :-------------: |
