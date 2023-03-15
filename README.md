@@ -21,7 +21,7 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [Your email address]
+- LinkedIn: https://www.linkedin.com/in/srikant-kanekar
+- Email: kanekarsrikant01@gmail.com
 
 Thanks for stopping by! Let's connect and collaborate on some awesome projects!
