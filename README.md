@@ -20,9 +20,9 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 | :-------------: | :-------------: |
 | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
 
-| 3D Printing | Shopping site |
+| [3D Printing](https://github.com/SrikantKanekar/3DPrinting-React) | [Shopping site](https://github.com/SrikantKanekar/ShoppingSite-Django) |
 | :-------------: | :-------------: |
-| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+| [![3D printing screenshot](https://github.com/SrikantKanekar/3DPrinting-React/blob/master/screenshots/create2.png)](https://github.com/SrikantKanekar/3DPrinting-React)     | [![Shopping site screenshot](https://github.com/SrikantKanekar/ShoppingSite-Django/blob/master/screenshots/menu_categories.png)](https://github.com/SrikantKanekar/ShoppingSite-Django)     |
 
 ## Skills
 
