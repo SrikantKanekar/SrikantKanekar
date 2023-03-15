@@ -4,13 +4,25 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 
 ## Projects
 
-| Project 1     | Project 2     | Project 3     |
-| :------------- | :------------- | :------------- |
-| Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
+| [Note app Android](https://github.com/SrikantKanekar/NoteApp-Android) | Note app iOS | Faircon app |
+| :-------------: | :-------------: | :-------------: |
 | [![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android) | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
-| Project 4     | Project 5     | Project 6     |
-| Brief description of project 1.     | Brief description of project 2.     | Brief description of project 3.     |
+
+| Tasks app | Sim companies app | Compose animation app |
+| :-------------: | :-------------: | :-------------: |
 | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+
+| Clock app | Countries app | Puppy adoption app |
+| :-------------: | :-------------: | :-------------: |
+| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+
+| Dog app | Recipe app |
+| :-------------: | :-------------: |
+| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
+
+| 3D Printing | Shopping site |
+| :-------------: | :-------------: |
+| ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     | ![Note app screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)     |
 
 ## Skills
 
@@ -18,10 +30,5 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 - **Frameworks:** Android, iOS, Flutter, React, Ktor, Django
 - **Databases:** Firebase, MySQL
 - **Tools:** Android Studio, Xcode, Git
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/srikant-kanekar
-- Email: kanekarsrikant01@gmail.com
 
 Thanks for stopping by! Let's connect and collaborate on some awesome projects!
