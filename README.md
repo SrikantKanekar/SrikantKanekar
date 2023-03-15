@@ -26,9 +26,9 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 
 ## Skills
 
-- **Languages:** Dart, Kotlin, Swift, JavaScript
+- **Languages:** Kotlin, Swift, Dart, JavaScript
 - **Frameworks:** Android, iOS, Flutter, React, Ktor, Django
-- **Databases:** Firebase, MySQL
+- **Databases:** MongoDb, SQLlite
 - **Tools:** Android Studio, Xcode, Git
 
 Thanks for stopping by! Let's connect and collaborate on some awesome projects!
