@@ -14,7 +14,7 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 
 | [Tasks app](https://github.com/SrikantKanekar/TasksApp-Flutter) | [Sim companies app](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [Compose animations app](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
 | :-------------: | :-------------: | :-------------: |
-| [![screenshot](https://github.com/SrikantKanekar/TasksApp-Flutter/blob/master/screenshots/tasks_completed.png)](https://github.com/SrikantKanekar/TasksApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/SimCompaniesApp-Android/blob/master/screenshots/home2.png)](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [![screenshot](https://github.com/SrikantKanekar/ComposeAnimations-Android/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
+| [![screenshot](https://github.com/SrikantKanekar/TasksApp-Flutter/blob/master/screenshots/tasks_completed.png)](https://github.com/SrikantKanekar/TasksApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/SimCompaniesApp-Android/blob/master/screenshots/home1.png)](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [![screenshot](https://github.com/SrikantKanekar/ComposeAnimations-Android/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
 
 | [Clock app](https://github.com/SrikantKanekar/ClockApp-Flutter) | [Countries app](https://github.com/SrikantKanekar/CountriesApp-Android) | [Puppy adoption app](https://github.com/SrikantKanekar/PuppyAdoptionApp-Android) |
 | :-------------: | :-------------: | :-------------: |
