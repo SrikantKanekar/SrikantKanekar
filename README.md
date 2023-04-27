@@ -6,7 +6,7 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 
 | [Android Note app](https://github.com/SrikantKanekar/NoteApp-Android) | [iOS Note app](https://github.com/SrikantKanekar/NoteApp-iOS) | [Faircon app](https://github.com/SrikantKanekar/FairconApp-Android) |
 | :-------------: | :-------------: | :-------------: |
-| [![screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android) | [![screenshot](https://github.com/SrikantKanekar/NoteApp-iOS/blob/main/screenshots/home.png)](https://github.com/SrikantKanekar/NoteApp-iOS) | [![screenshot](https://github.com/SrikantKanekar/FairconApp-Android/blob/master/screenshots/cool2.png)](https://github.com/SrikantKanekar/FairconApp-Android) |
+| [![screenshot](https://github.com/SrikantKanekar/NoteApp-Android/blob/master/screenshots/notes_screen.png)](https://github.com/SrikantKanekar/NoteApp-Android) | [![screenshot](https://github.com/SrikantKanekar/NoteApp-iOS/blob/main/screenshots/home1.png)](https://github.com/SrikantKanekar/NoteApp-iOS) | [![screenshot](https://github.com/SrikantKanekar/FairconApp-Android/blob/master/screenshots/cool2.png)](https://github.com/SrikantKanekar/FairconApp-Android) |
 
 | [3D Printing website](https://github.com/SrikantKanekar/3DPrinting-React) | [Shopping website](https://github.com/SrikantKanekar/ShoppingSite-Django) |
 | :-------------: | :-------------: |
