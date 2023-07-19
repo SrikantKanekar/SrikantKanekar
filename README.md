@@ -12,17 +12,17 @@ I'm Srikant Kanekar, a mobile developer with experience in web and backend devel
 | :-------------: | :-------------: |
 | [![screenshot](https://github.com/SrikantKanekar/3DPrinting-React/blob/master/screenshots/create2.png)](https://github.com/SrikantKanekar/3DPrinting-React) | [![screenshot](https://github.com/SrikantKanekar/ShoppingSite-Django/blob/master/screenshots/menu_categories.png)](https://github.com/SrikantKanekar/ShoppingSite-Django) |
 
-| [Tasks app](https://github.com/SrikantKanekar/TasksApp-Flutter) | [Sim companies app](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [Compose animations app](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
+| [Tasks app](https://github.com/SrikantKanekar/TasksApp-Flutter) | [Meal planning app](https://github.com/SrikantKanekar/MealPlanningApp-Android) | [Compose animations app](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
 | :-------------: | :-------------: | :-------------: |
-| [![screenshot](https://github.com/SrikantKanekar/TasksApp-Flutter/blob/master/screenshots/tasks_completed.png)](https://github.com/SrikantKanekar/TasksApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/SimCompaniesApp-Android/blob/master/screenshots/home1.png)](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [![screenshot](https://github.com/SrikantKanekar/ComposeAnimations-Android/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
+| [![screenshot](https://github.com/SrikantKanekar/TasksApp-Flutter/blob/master/screenshots/tasks_completed.png)](https://github.com/SrikantKanekar/TasksApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/MealPlanningApp-Android/blob/main/Screenshots/Dashboard.png)](https://github.com/SrikantKanekar/MealPlanningApp-Android) | [![screenshot](https://github.com/SrikantKanekar/ComposeAnimations-Android/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/ComposeAnimations-Android) |
 
 | [Clock app](https://github.com/SrikantKanekar/ClockApp-Flutter) | [Countries app](https://github.com/SrikantKanekar/CountriesApp-Android) | [Puppy adoption app](https://github.com/SrikantKanekar/PuppyAdoptionApp-Android) |
 | :-------------: | :-------------: | :-------------: |
 | [![screenshot](https://github.com/SrikantKanekar/ClockApp-Flutter/blob/master/screenshots/alarm_expanded.png)](https://github.com/SrikantKanekar/ClockApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/CountriesApp-Android/blob/master/screenshots/home4.png)](https://github.com/SrikantKanekar/CountriesApp-Android) | [![screenshot](https://github.com/SrikantKanekar/PuppyAdoptionApp-Android/blob/main/screenshots/home2.png)](https://github.com/SrikantKanekar/PuppyAdoptionApp-Android) |
 
-| [Dog breed app](https://github.com/SrikantKanekar/DogApp-Flutter) | [Recipe app](https://github.com/SrikantKanekar/RecipeApp-Android) |
-| :-------------: | :-------------: |
-| [![screenshot](https://github.com/SrikantKanekar/DogApp-Flutter/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/DogApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/RecipeApp-Android/blob/master/screenshots/recipies4.png)](https://github.com/SrikantKanekar/RecipeApp-Android) |
+| [Dog breed app](https://github.com/SrikantKanekar/DogApp-Flutter) | [Sim companies app](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [Recipe app](https://github.com/SrikantKanekar/RecipeApp-Android) |
+| :-------------: | :-------------: | :-------------: |
+| [![screenshot](https://github.com/SrikantKanekar/DogApp-Flutter/blob/master/screenshots/home.png)](https://github.com/SrikantKanekar/DogApp-Flutter) | [![screenshot](https://github.com/SrikantKanekar/SimCompaniesApp-Android/blob/master/screenshots/home1.png)](https://github.com/SrikantKanekar/SimCompaniesApp-Android) | [![screenshot](https://github.com/SrikantKanekar/RecipeApp-Android/blob/master/screenshots/recipies4.png)](https://github.com/SrikantKanekar/RecipeApp-Android) |
 
 ## Skills
 
